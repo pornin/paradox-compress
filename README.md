@@ -26,7 +26,7 @@ model makes paradoxical compression possible.
 
 **Warning:** "Paradoxical compression" is only about *not increasing*
 the length of any input. This is NOT "infinite compression", in which it
-is claimed that every possible input can be **reduced** in size. There
+is claimed that every possible input can be *reduced* in size. There
 is no shortage of scammers who peddle bogus infinite compression
 schemes; what I describe here will not help them. Infinite compression
 is mathematically impossible, but a lot more impossible than paradoxical
@@ -103,8 +103,8 @@ Refer to the paper for details.
 
 ## License
 
-If you think about reusing this code anywhere, reading again the
-warnings above.
+If you think about reusing this code anywhere, read again the warnings
+above.
 
 The SHA3/SHAKE implementations, and the big integer code (`ZInt`
 structure), can be useful. Feel free to reuse; license is, formally
