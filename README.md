@@ -51,7 +51,7 @@ message. In almost all cases, an extra "compressed / not compressed"
 flag can be smuggled somewhere in such metadata, which is enough to
 avoid paylooad expansion through compression without using any of the
 stuff described here. Thus, there should be little point in reusing the
-methods and codes from this repository in any tangible software project.
+methods and code from this repository in any tangible software project.
 As a mathematical recreation, though, paradoxical compression is sort of
 fun.
 
